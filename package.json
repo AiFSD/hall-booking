@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AiFSD/hall-booking.git"
+    "url": "https://github.com/AiFSD/hall-booking.git"
   },
   "author": "Isaac",
   "license": "ISC",
